@@ -1,0 +1,13 @@
+html, body {
+  height: 100%;
+  overflow: hidden;
+  font-family: 'Satisfy'
+}
+
+body {
+  background-color: black;
+  background-image: url("https://bestcouple.lol/background.png");
+  background-repeat: no-repeat;
+  background-size: contain;
+}
+
